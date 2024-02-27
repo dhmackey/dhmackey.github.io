@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About
 subtitle: What is Sysfyre Discord Bot?
 ---
 
