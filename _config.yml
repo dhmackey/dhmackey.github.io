@@ -20,7 +20,7 @@ author: trenjunkie
 ###############################################
 
 navbar-links:
-  About: "about"
+  About Me: "aboutme"
   Docs: "docs"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
