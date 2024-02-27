@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Sysfyre
 
 # Your name to show in the footer
-author: Some Person
+author: trenjunkie
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,13 +50,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "info@sysfyre.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+# facebook: deanattali
+  github: dhmackey
+# twitter: daattali
+# patreon: DeanAttali
+# youtube: "@daattali"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -75,7 +75,7 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
+   discord: users/trenjunkie   #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
