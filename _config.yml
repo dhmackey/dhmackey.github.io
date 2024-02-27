@@ -20,11 +20,12 @@ author: trenjunkie
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "about"
+  Docs: "docs"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://github.com/dhmackey"
 
 ################
 # --- Logo --- #
