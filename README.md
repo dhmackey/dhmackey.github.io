@@ -1,26 +1,21 @@
-# Sysfyre Discord Bot
+# SYSFYRE Discord Bot
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
-> By [trenjunkie](https://github.com/dhmackey) &middot; [Sysfyre](https://sysfyre/com/)
+> By [trenjunkie](https://github.com/dhmackey) &middot; [Sysfyre](https://sysfyre.com/)
 
-**Sysfyre** is a ready-to-use discord bot to help you create things.
+**Sysfyre** is a *ready-to-use* discord bot to help you create things.
 
 **If you enjoy the website design for Sysfyre Discord Bot, please consider [supporting us](https://sysfyre.com/support-us). You'll also gain access to our exclusive newsletter and more!**
 
-## Table of contents
 
-- [Features](#features)
-- [Sponsors 🏆](#sponsors)
-- [**Build your website in 3 steps**](#build-your-website-in-3-steps)
-- [Plans](#plans)
-- [Add your own content](#add-your-own-content)
-- [Customizing parameters for each page](#customizing-parameters-for-each-page)
-- [Supported parameters](#supported-parameters)
-- [Featured users (success stories!)](#featured-users-success-stories)
-- [Next steps](#next-steps)
-- [Getting help](#getting-help)
-- [Credits and contributions](#contributions)
+|   Table of Contents   |
+|-----------------------|
+| [Features](#features) |
+| [Features](#features) |
+| [Features](#features) |
+| [Features](#features) |
+
 
 # Features
 
